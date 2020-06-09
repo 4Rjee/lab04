@@ -84,10 +84,6 @@ $ travis lint
 ```
 
 ```sh
-$ ex -sc '1i|<фрагмент_вставки_значка>' -cx README.md
-```
-
-```sh
 $ git add .travis.yml
 $ git add README.md
 $ git commit -m"added CI"
